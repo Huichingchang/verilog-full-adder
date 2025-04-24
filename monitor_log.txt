@@ -1,0 +1,8 @@
+a=0, b=0, cin=0, sum=0, carry=0 @ 10000 ns
+a=0, b=0, cin=1, sum=1, carry=0 @ 20000 ns
+a=0, b=1, cin=0, sum=1, carry=0 @ 40000 ns
+a=0, b=1, cin=1, sum=0, carry=1 @ 50000 ns
+a=1, b=0, cin=0, sum=1, carry=0 @ 60000 ns
+a=1, b=0, cin=1, sum=0, carry=1 @ 70000 ns
+a=1, b=1, cin=0, sum=0, carry=1 @ 80000 ns
+a=1, b=1, cin=1, sum=1, carry=1 @ 90000 ns
